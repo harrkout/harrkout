@@ -2,7 +2,7 @@
 
 ---
 
-<div><img align="right" width="65%" height="26%" src="gif.webp" /></div></div>
+<div><img align="right" width="62%" height="26%" src="gif.webp" /></div></div>
 
 - Embedded Software Engineer
 - CS Graduate
