@@ -5,6 +5,7 @@
 - Embedded Software Engineer
 - CS Graduate
 - Tinkering for fun
+- https://gist.github.com/harrkout
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harrkout&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 
