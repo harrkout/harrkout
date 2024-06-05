@@ -3,7 +3,7 @@
 <div><img align="right" width="62%" height="26%" src="gif.webp" /></div></div>
 
 <br>
- 🔲     Embedded Software Engineer<br>
+ 🔲     Embedded Engineer<br>
  🎓     CS Graduate<br>
  🚀     Aero/Space Industry<br>
  ⚙️     Tinkering for fun<br>
