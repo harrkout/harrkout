@@ -5,14 +5,15 @@
 <br>
 <br>
 <br>
-<br>
  🔲          Embedded Engineer<br>
+ <br>
  🎓          CS Graduate<br>
+ <br>
  🚀          Aero/Space Industry<br>
+ <br>
  ⚙️          Tinkering for fun<br>
+ <br>
 </>          https://gist.github.com/harrkout
-<br>
-<br>
 <br>
 <br>
 
