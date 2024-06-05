@@ -6,11 +6,11 @@
 <br>
 <br>
 <br>
- 🔲     Embedded Engineer<br>
- 🎓     CS Graduate<br>
- 🚀     Aero/Space Industry<br>
- ⚙️     Tinkering for fun<br>
-</>     https://gist.github.com/harrkout
+ 🔲          Embedded Engineer<br>
+ 🎓          CS Graduate<br>
+ 🚀          Aero/Space Industry<br>
+ ⚙️          Tinkering for fun<br>
+</>          https://gist.github.com/harrkout
 <br>
 <br>
 <br>
