@@ -4,7 +4,6 @@
 
 <br>
 <br>
-<br>
  🔲          Embedded Engineer<br>
  <br>
  🎓          CS Graduate<br>
