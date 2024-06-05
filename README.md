@@ -11,7 +11,7 @@
 </br>
 
 <br>
-Embedded Engineer with passion for exploring Microcontrollers, Microprocessors, RTOS, SoC, SiP and more. I enjoy crafting innovative solutions that blend hardware and software to drive advancements in embedded systems.Embedded
+Embedded Engineer with passion for exploring Microcontrollers, Microprocessors, RTOS, SoC, SiP and more. I enjoy crafting innovative solutions that blend hardware and software to drive advancements in embedded systems.
 </br>
 
 #
