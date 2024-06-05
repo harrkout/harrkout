@@ -2,12 +2,21 @@
 
 <div><img align="right" width="62%" height="26%" src="gif.webp" /></div></div>
 
-- Embedded Software Engineer
-- CS Graduate
-- Tinkering for fun
-- https://gist.github.com/harrkout
+<br>
+ 🔲     Embedded Software Engineer<br>
+ 🎓     CS Graduate<br>
+ 🚀     Aero/Space Industry<br>
+ ⚙️     Tinkering for fun<br>
+</>     https://gist.github.com/harrkout
+</br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harrkout&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+<br>
+Embedded Engineer with passion for exploring Microcontrollers, Microprocessors, RTOS, SoC, SiP and more. 
+<br>Enjoying crafting innovative solutions that blend hardware and software to drive advancements in embedded systems.Embedded
+</br>
+
+#
+
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 <br>
