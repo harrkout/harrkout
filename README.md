@@ -8,8 +8,6 @@
  <br>
  🎓          CS Graduate<br>
  <br>
- 🚀          Aero/Space Industry<br>
- <br>
  ⚙️          Tinkering for fun<br>
  <br>
  <br>
